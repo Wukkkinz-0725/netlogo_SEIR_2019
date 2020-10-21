@@ -2,7 +2,7 @@
 
 import sys
 
-def main()
+def main():
 	print('Number of arugments: %d', len(sys.argv))
 	print('Argument List: %s' % str(sys.argv))
 	print('cyzpiggy')
