@@ -1,5 +1,5 @@
 #! /usr/bin/python
-
+import git
 import sys
 import subprocess
 
