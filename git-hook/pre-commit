@@ -1,14 +1,1 @@
-#! /usr/bin/python
-
-import sys
-import git
-
-def main():
-	repo = git.Repo()
-	print('AAAAAAAAA: %d', len(sys.argv))
-	print('BBBBBBBBB: %s' % str(sys.argv))
-	print('CCCCCCCCD')
-	sys.exit(1)
-
-if __name__ == "__main__":
-	main()
+/Users/jinze/Desktop/git_hook_test/netlogo_SEIR_2019/git-hook/pre-commit.py
