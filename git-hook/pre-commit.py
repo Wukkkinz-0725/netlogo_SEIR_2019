@@ -27,6 +27,7 @@ def main():
 	# print('AAAAAAAAA: %d', len(sys.argv))
 	# print('BBBBBBBBB: %s' % str(sys.argv))
 	# print('CCCCCCCCD')
+	print('tset pre-commit!')
 	sys.exit(0)
 
 if __name__ == "__main__":
