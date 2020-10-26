@@ -2,6 +2,7 @@
 import sys
 
 def main():
+	print('abcs')
 	print('cyzpiggy!')
 	print('test pre-commit!')
 	sys.exit(0)
