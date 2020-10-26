@@ -3,6 +3,6 @@ import os
 import git
 import sys
 import subprocess
-
+print('cyzpiggy')
 oldrev,newrev,refname = sys.stdin.readline().strip().split(' ')
 print('oldref:%s, newrev:%s, refname:%s'%(oldrev, newrev, refname))
